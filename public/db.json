@@ -1,0 +1,144 @@
+{
+    "jobs":[
+      {
+        "id": 1,
+        "title": "Software Engineer",
+        "type": "Full-time",
+        "description": "We are seeking an experienced Software Engineer to join our development team. Responsibilities include designing, developing, and maintaining software applications.",
+        "location": "Bengaluru, India",
+        "salary": 1200000,
+        "company": {
+          "name": "TechCorp",
+          "description": "TechCorp is a leading software company that specializes in enterprise solutions.",
+          "contactEmail": "careers@techcorp.com",
+          "contactPhone": "+91 80 1234 5678"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Marketing Manager",
+        "type": "Contract",
+        "description": "We are looking for a skilled Marketing Manager to lead our marketing campaigns and initiatives. Responsibilities include developing marketing strategies, managing budgets, and analyzing campaign performance.",
+        "location": "Mumbai, India",
+        "salary": 900000,
+        "company": {
+          "name": "MarketPro",
+          "description": "MarketPro is a renowned marketing agency with clients across various industries.",
+          "contactEmail": "jobs@marketpro.com",
+          "contactPhone": "+91 22 9876 5432"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Data Analyst",
+        "type": "Remote",
+        "description": "We are seeking a Data Analyst to join our team. Responsibilities include gathering, analyzing, and interpreting data to support business decisions.",
+        "location": "Remote (India)",
+        "salary": 1000000,
+        "company": {
+          "name": "DataInsights",
+          "description": "DataInsights is a leading provider of data analytics solutions.",
+          "contactEmail": "careers@datainsights.com",
+          "contactPhone": "+91 11 2345 6789"
+        }
+      },
+      {
+        "id": 4,
+        "title": "UI/UX Designer",
+        "type": "Full-time",
+        "description": "We are hiring a talented UI/UX Designer to create intuitive and visually appealing user interfaces for our web and mobile applications.",
+        "location": "Chennai, India",
+        "salary": 800000,
+        "company": {
+          "name": "DesignWorks",
+          "description": "DesignWorks is a cutting-edge design agency specializing in user experience and interface design.",
+          "contactEmail": "jobs@designworks.com",
+          "contactPhone": "+91 44 7890 1234"
+        }
+      },
+      {
+        "id": 5,
+        "title": "Project Manager",
+        "type": "Contract",
+        "description": "We are looking for an experienced Project Manager to oversee the planning, execution, and delivery of our client projects.",
+        "location": "Delhi, India",
+        "salary": 1100000,
+        "company": {
+          "name": "ProjectSolutions",
+          "description": "ProjectSolutions is a leading project management consultancy serving clients across various industries.",
+          "contactEmail": "careers@projectsolutions.com",
+          "contactPhone": "+91 11 5678 9012"
+        }
+      },
+      {
+        "id": 6,
+        "title": "Content Writer",
+        "type": "Remote",
+        "description": "We are seeking a talented Content Writer to create engaging and informative content for our website, blog, and marketing materials.",
+        "location": "Remote (India)",
+        "salary": 600000,
+        "company": {
+          "name": "ContentCraft",
+          "description": "ContentCraft is a content creation agency that specializes in crafting compelling stories for brands.",
+          "contactEmail": "jobs@contentcraft.com",
+          "contactPhone": "+91 20 3456 7890"
+        }
+      },
+      {
+        "id": 7,
+        "title": "Sales Executive",
+        "type": "Full-time",
+        "description": "We are hiring a motivated Sales Executive to join our team and drive revenue growth through effective sales strategies and client relationships.",
+        "location": "Hyderabad, India",
+        "salary": 700000,
+        "company": {
+          "name": "SalesPro",
+          "description": "SalesPro is a leading sales solutions provider helping businesses maximize their sales potential.",
+          "contactEmail": "careers@salespro.com",
+          "contactPhone": "+91 40 2345 6789"
+        }
+      },
+      {
+        "id": 8,
+        "title": "HR Specialist",
+        "type": "Full-time",
+        "description": "We are seeking an experienced HR Specialist to manage our recruitment, employee relations, and talent development initiatives.",
+        "location": "Pune, India",
+        "salary": 850000,
+        "company": {
+          "name": "HRSolutions",
+          "description": "HRSolutions is a trusted provider of human resource solutions and consulting services.",
+          "contactEmail": "jobs@hrsolutions.com",
+          "contactPhone": "+91 20 7890 1234"
+        }
+      },
+      {
+        "id": 9,
+        "title": "Financial Analyst",
+        "type": "Contract",
+        "description": "We are looking for a skilled Financial Analyst to analyze financial data, develop forecasts, and provide insights to support business decision-making.",
+        "location": "Kolkata, India",
+        "salary": 950000,
+        "company": {
+          "name": "FinancePro",
+          "description": "FinancePro is a leading provider of financial advisory and consulting services.",
+          "contactEmail": "careers@financepro.com",
+          "contactPhone": "+91 33 5678 9012"
+        }
+      },
+      {
+        "id": 10,
+        "title": "Customer Support Representative",
+        "type": "Full-time",
+        "description": "We are hiring a Customer Support Representative to provide exceptional customer service and support to our clients.",
+        "location": "Ahmedabad, India",
+        "salary": 550000,
+        "company": {
+          "name": "CustomerCare",
+          "description": "CustomerCare is a customer service outsourcing company dedicated to delivering exceptional customer experiences.",
+          "contactEmail": "jobs@customercare.com",
+          "contactPhone": "+91 79 3456 7890"
+        }
+      }
+    ]
+  }
